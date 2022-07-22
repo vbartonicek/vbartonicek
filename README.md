@@ -1,7 +1,7 @@
 ### Ahoj! 👋
 
-- 🚀 Currently on the mission to make the data.ai products even more powerful! 
-- 🏔️ In free time enjoying the beauty of British Columbia
-- 🏠 Lived in 🇨🇿, 🇹🇼 and now in 🇨🇦
-- 🎓 Proud alumnus of FIT CTU
+- 🏕️ Currently doing a sabbatical summer with destination Yukon!
+- 🚀 Ex @Apify and @appannie (data.ai)
+- 🏠 Lived in 🇨🇿, 🇹🇼, and now in 🇨🇦
+- 🎓 Proud FIT CTU alumnus
 - 📫 How to reach me: www.linkedin.com/in/bartonicek
